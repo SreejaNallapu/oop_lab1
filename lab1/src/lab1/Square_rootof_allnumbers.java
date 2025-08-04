@@ -11,7 +11,8 @@ public class Square_rootof_allnumbers {
         int n=sc.nextInt();
         for (int i=1;i<=n;i++) {
             result=Math.sqrt(i);
-            System.out.printf("Square root of "+i+" is "+result+"\n" );
+            System.out.println("Square root of "+i+" is "+result+"\n" );
         }
 	}
 }
+
